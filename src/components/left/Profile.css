@@ -1,0 +1,11 @@
+.profile{
+    /* justify-content: space-evenly; */
+    padding: 20px; 
+    /* display: block; */
+    justify-content: space-between; 
+    background-color: rgba(48, 45, 45, 0.217);
+    border-radius: 10px;
+    
+    
+    
+}

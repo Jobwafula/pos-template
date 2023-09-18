@@ -1,0 +1,16 @@
+button{
+    background-color: rgb(161, 165, 42);
+    width: 100px;
+    transition: border-color 0.25s;
+    border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  cursor: pointer;
+
+}
+.cart{
+  background-color: rgba(48, 45, 45, 0.217);
+}
